@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Área Técnica",
+    "porcentaje": 20,
+    "color": "#ffffff",
+    "petalos": 20
+  },
+  {
+    "nombre": "Área de Edición",
+    "porcentaje": 10,
+    "color": "#a3c9f9",
+    "petalos": 6
+  },
+  {
+    "nombre": "Área de Actores",
+    "porcentaje": 61,
+    "color": "#b46cc8",
+    "petalos": 8
+  },
+  {
+    "nombre": "Área Creativa",
+    "porcentaje": 10,
+    "color": "#f4a261",
+    "petalos": 6
+  }
+]
